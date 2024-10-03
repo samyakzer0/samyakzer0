@@ -5,8 +5,11 @@ I'm a passionate developer diving deep into the world of Web3 and blockchain tec
 
 🔧 Technologies & Tools:
 Languages: C++, JavaScript , Solidity ( Basic Control and Commands )
+
 Web3:Funds Managements on the Velar Testnet, minor blockchain projects
+
 Blockchain Tools: Truffle , Hardhat , Metamask , Phantom etc.
+
 Frontend: No Complete Command But Knows Enough To Figure It Out.
 
 🌐 Projects:
