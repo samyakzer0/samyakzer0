@@ -1,86 +1,52 @@
-<div align="center">
+<h2 align="center"><samp> Hi there! <h1> I'm SAMYAK </h1>  welcome to my GitHub! I'm a frontend designer and founder of <a href="https://zer0labs1.vercel.app">zer0Labs</a>, where I build high-quality web experiences with React, Next.js, and modern animation. I specialize in crafting interactive portfolios, SaaS interfaces, and custom frontends. </samp></h2>
 
-  <!-- Auto-switching Dark/Light Animated Banner -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
-    <img src="banner.svg?v=1" width="100%" alt="Samyak Banner">
-  </picture>
+<h3 align="center"> Create. Ship. Repeat. 🚀 </h3>
 
-  <br><br>
+<p align="center">
+  <img width="250" src="https://raw.githubusercontent.com/samyakzer0/samyakzer0/main/.github/assets/0.png">
+</p>
 
-  <!-- Swinging ID Badge -->
-  <img src="lanyard.svg?v=1" width="380" alt="Samyak Swinging Badge">
+<p align="center">
+<a href="https://twitter.com/samyceo"><img src="https://img.icons8.com/material-outlined/32/ffffff/twitter.png"/></a>
+<a href="https://linkedin.com/in/samyakzer0"><img src="https://img.icons8.com/material-outlined/32/ffffff/linkedin.png"/></a>
+<a href="https://instagram.com/ig_samyakk"><img src="https://img.icons8.com/material-outlined/32/ffffff/instagram-new.png"/></a>
+<a href="mailto:samyak.sage@gmail.com"><img src="https://img.icons8.com/material-outlined/32/ffffff/email.png"/></a>
+</p>
 
-  <br><br>
 
-  <!-- Badges Grid -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Status-Building_Cool_Stuff-ec4899?style=for-the-badge&amp;logo=rocket" />
-    <img src="https://img.shields.io/badge/Stack-Full--Stack_Web-8b5cf6?style=for-the-badge&amp;logo=codefactor" />
-    <img src="https://img.shields.io/badge/Focus-React_%7C_Node.js-3b82f6?style=for-the-badge&amp;logo=react" />
-  </p>
 
-  <br>
+<p align="center"><samp>
+💼 Projects available @ <a href="https://zer0labs1.vercel.app">zer0labs1.vercel.app</a><br>
+📫 Reach out: samyak.sage@gmail.com
+</samp></p>
 
-  <!-- Local Stat Cards Grid -->
-  <table border="0">
-    <tr>
-      <td><img src="stats.svg?v=1" width="430" alt="Stats"></td>
-      <td><img src="langs.svg?v=1" width="430" alt="Languages"></td>
-    </tr>
-  </table>
+<h4 align="center"><samp>Tech Stack</samp></h4>
 
-  <br>
 
-  <!-- Trophies Grid -->
-  <img src="trophies.svg?v=1" width="100%" alt="Trophies">
 
-  <br><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-JS-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-  <!-- Featured Projects -->
-  <h2>💻 Featured Projects</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Supabase-3ADBFF?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-361A00?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" />
+</p>
 
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">✨ Interactive Todo Manager</h3>
-        <p>A full-stack React &amp; Express todo application featuring task filtering, state persistence, and clean UI components.</p>
-        <p><b>Tech:</b> React, Node.js, Express, JavaScript</p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">🌤️ Weather &amp; Quote Dashboard</h3>
-        <p>Real-time weather monitoring application integrated with dynamic motivational quote generators and responsive design.</p>
-        <p><b>Tech:</b> JavaScript, React, REST API, Tailwind/CSS</p>
-      </td>
-    </tr>
-  </table>
 
-  <br><br>
 
-  <!-- Contribution Snake Animation -->
-  <h2>🐍 Contribution Graph Snake</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samyak/samyak/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samyak/samyak/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/samyak/samyak/output/github-contribution-grid-snake.svg">
-  </picture>
 
-  <br><br>
 
-  <!-- Connect Section -->
-  <h2>📫 Connect with Me</h2>
-  <p align="center">
-    <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-    <a href="mailto:contact@samyak.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
-  </p>
-
-  <br>
-
-  <!-- Profile Views Counter -->
-  <p align="center">
-    👁️ Profile Views: <img src="https://komarev.com/ghpvc/?username=samyak&amp;color=ec4899&amp;style=flat" alt="Profile Views" />
-  </p>
-
-</div>
+<p align="center"><samp>
+Check out my repos ⬇️  
+</samp></p>
